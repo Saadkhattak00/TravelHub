@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366718193359",
+    "project_id": "travel-hub-7dccc",
+    "storage_bucket": "travel-hub-7dccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366718193359:android:b68f3ab45d8d89691871ba",
+        "android_client_info": {
+          "package_name": "com.example.helpus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366718193359-bb7n90qvhre2p5cea5uimi7s8fa3g56g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVlKDOaZYzeiL6JwXdZWv1UI_8farJknM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366718193359-bb7n90qvhre2p5cea5uimi7s8fa3g56g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
