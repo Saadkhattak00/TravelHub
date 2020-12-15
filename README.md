@@ -3,7 +3,7 @@
 A new Flutter application.
 
 ## Getting Started
-https://github.com/Saadkhattak00/TravelHub/blob/master/login%20UI%20travel.png
+![](https://github.com/Saadkhattak00/TravelHub/blob/master/login%20UI%20travel.png)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
